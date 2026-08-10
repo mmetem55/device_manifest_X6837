@@ -10,5 +10,5 @@ repo init -u https://github.com/mmetem55/device_manifest_X6837.git -b lineage-23
 ```
 Then to sync up:
 ```
-repo sync
+repo sync -j$(nproc)
 ```
