@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Extra Feature -->
+    <project path="vendor/mtk-bypass-charge" name="mmetem55/vendor_mtk-bypass-charge" remote="github" revision="main" />
+    <project path="vendor/transsion-camera" name="mmetem55/vendor_transsion-camera" remote="github" revision="motion-photo" />
+    <project path="vendor/gapps" name="MindTheGapps/vendor_gapps" remote="github" revision="baklava" />
+</manifest>
