@@ -1030,5 +1030,4 @@
   <include name="snippets/lineage.xml" />
   <include name="snippets/X6837.xml" />
   <include name="snippets/extras.xml" />
-  <include name="snippets/kernel-5.10.xml" />
 </manifest>
