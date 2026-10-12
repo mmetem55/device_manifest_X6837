@@ -6,7 +6,7 @@ Getting started
 
 To initialize your local repository using the Infinix Hot 40 Pro (X6837) device trees, use a command like this:
 ```
-repo init -u https://github.com/mmetem55/device_manifest_X6837.git -b lineage-23.2 --git-lfs
+repo init -u https://github.com/mmetem55/device_manifest_X6837.git -b lineage-24.0 --git-lfs
 ```
 Then to sync up:
 ```
